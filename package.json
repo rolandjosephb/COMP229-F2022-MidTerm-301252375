@@ -42,11 +42,11 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
   },
-  "description": "Assignment 2",
+  "description": "Midterm",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rolandjosephb/Assignment-2-Comp-229-Roland.git"
+    "url": "git+https://github.com/rolandjosephb/COMP229-F2022-MidTerm-301252375.git"
   },
   "keywords": [
     "Roland"
@@ -54,7 +54,7 @@
   "author": "Roland Joseph Baja",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rolandjosephb/Assignment-2-Comp-229-Roland/issues"
+    "url": "https://github.com/rolandjosephb/COMP229-F2022-MidTerm-301252375/issues"
   },
-  "homepage": "https://github.com/rolandjosephb/Assignment-2-Comp-229-Roland#readme"
+  "homepage": "https://github.com/rolandjosephb/COMP229-F2022-MidTerm-301252375#readme"
 }
