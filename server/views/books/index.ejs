@@ -39,11 +39,11 @@ https://comp229-f2020-301252375.herokuapp.com/books
                   <td class="text-center"><%= books[count].Genre %></td>
 
                   <td class="text-center">
-                    <a href="/books/<%= books[count]._id %>" type="button" class="btn btn-dark"><i class="fa fa-edit"></i> Edit</a>
+                    <a href="/books/<%= books[count]._id %>" type="button" class="btn btn-primary btn-sm"><i class="fas fa-pencil-alt"></i> Edit</a>
                   </td>
 
                   <td class="text-center">
-                    <a href="/books/delete/<%= books[count]._id %>" type="button" class="btn btn-dark"><i class="fa fa-trash"></i> Delete</a>
+                    <a href="/books/delete/<%= books[count]._id %>" type="button" class="btn btn-danger btn-sm"><i class="fas fa-trash-alt"></i> Delete</a>
                   </td>
                 </tr>
                 <% } %>
